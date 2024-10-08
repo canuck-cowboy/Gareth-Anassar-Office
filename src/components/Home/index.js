@@ -67,7 +67,7 @@ const Home = () => {
             />
           </h1>
           <h2>
-            AI Researcher / Lecturer / Network Admin 
+            Network / System Administrator 
           </h2>
           <Link to="/contact" className="flat-button">
             CONTACT ME
